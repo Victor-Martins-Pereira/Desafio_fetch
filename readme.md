@@ -78,7 +78,7 @@ Você pode ver uma versão online do projeto **aqui**: [Fetch GitHub - Desafio D
 
 ## 💻 Autor
 
-**Desenvolvido por [Victor Martins Pereira](https://www.instagram.com/victor_martins.p/)**
+**Desenvolvido por [Victor Martins Pereira](https://github.com/Victor-Martins-Pereira)**
 
 ---
 
